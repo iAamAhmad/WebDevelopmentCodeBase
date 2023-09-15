@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 2rem;
+}
+.poster {
+  width: 50%;
+  margin-top: 25%;
+  color: white;
+  text-align: center;
+}
+.motivation-img {
+  border: 10px solid white;
+  width: 100%;
+}

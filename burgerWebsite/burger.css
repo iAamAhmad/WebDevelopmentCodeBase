@@ -1,0 +1,36 @@
+img {
+  margin: 0 auto;
+  width: 180px;
+}
+nav span {
+  margin: 10px 0;
+}
+.content {
+  height: 500px;
+  margin: 10px 0;
+  overflow: scroll;
+}
+.content .body {
+  margin: 0 auto; /* No vertical margin and automatic horizontal margins to center it */
+}
+.header {
+  height: 320px;
+}
+.header h1 {
+  padding: 20px;
+  margin: 0 auto;
+}
+.button {
+  width: 200px;
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid blue;
+}
+ul.nutrition{
+   padding: 20px;
+}
+ul.nutrition li{
+   padding: 10px 20px ;
+   width: 200px;
+   margin-bottom: 3px;
+}
